@@ -1,6 +1,6 @@
 # Capital-Bikeshare
 
-![](4.png) 
+   ![](4.png) 
 
 #### Executive Summary
 We are assigned to run a detailed analysis on the Capital Bikeshare data that can help achieve operational excellence. The main issue highlighted is the lack of supply for both docks 
