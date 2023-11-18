@@ -20,7 +20,7 @@ forward with two stations that each acted as pick up and drop off, providing us 
 be in place in order to achieve efficiency. 
 
 #### Data Understanding
-The dataset we used was accessed from the official Capital Bikeshare website. For convenience purposes, we used data from 202201 to 202204 which included the trip details, including
+The dataset we used was accessed from the official Capital Bikeshare website. For convenience purposes, we used data from 2022-01 to 2022-04 which included the trip details, including
 start/pick up station, time, date, coordinates and the member type. The same information was available for the end/ drop off station as well. Apart from this dataset, we used the DC 
 weather data which included date, actual maximum and minimum temperatures as well as what it felt like, precipitation type, probability and coverage, humidity and dew factor. The 
 reason for using this weather data is to visualize the impact the weather conditions have on the usage of capital bike share. 
